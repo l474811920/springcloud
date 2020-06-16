@@ -1,0 +1,6 @@
+server:
+  port: 8760
+  servlet:
+    context-path: /server
+  tomcat:
+    uri-encoding: UTF-8
